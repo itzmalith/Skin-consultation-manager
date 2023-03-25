@@ -1,2 +1,2 @@
-# CW
+# Skin Consultation manager
 java cw 
